@@ -1,3 +1,6 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@500&display=swap');
+
 h1{
     text-align: center;
     color: rgb(37, 37, 134);
@@ -5,4 +8,12 @@ h1{
 }
 h3{
     font-family: sans-serif;
+}
+h2{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    text-align-last: right;
+}
+p{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    text-align: right;  
 }
